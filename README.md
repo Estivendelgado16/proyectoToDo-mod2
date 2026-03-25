@@ -1,11 +1,5 @@
 # ToDo App - App de Gestión de Tareas
 
-![Texto alternativo](./planeación-doc/imgs/toDoImg1.png)
-![Texto alternativo](./planeación-doc/imgs/toDoImg2.png)
-![Texto alternativo](./planeación-doc/imgs/toDoImg3.png)
-
-
-
 ## Descripción / Description
 **App de Tareas** es una aplicación web simple y eficiente para gestionar tus tareas diarias. Te permite crear, editar, eliminar y filtrar tareas con persistencia en el navegador usando LocalStorage. ¡Organiza tu día y sé más productivo!
 
@@ -50,8 +44,6 @@ open index.html  # o xdg-open index.html
 4. **Eliminar**: Click en X o \"Borrar completados\".
 5. **Filtrar**: Botones en footer (Todas / Pendientes / Completadas).
 
-![Demo Crear Tarea](Recursos/lista-de-quehaceres.png)  
-*(Captura local - sube screenshots a GitHub para links mejores)*
 
 Más screenshots en el repositorio original:  
 ![Pendientes](https://github.com/estivedelgado16/proyectoToDo-mod2/assets/138074670/eb9cf725-4ea5-4ba4-b92e-975614c96f4c)  
